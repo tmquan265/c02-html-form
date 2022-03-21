@@ -1,0 +1,31 @@
+body {
+    color: rgb(24 255 236);
+    width: 80%;
+    margin: auto;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('../img/vintage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: x-large
+  }
+  
+  h1 {
+    color: #28f643;
+    font-size: 75px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #e8ff00;
+    text-align: center;
+  } 
+  button {
+    margin:auto;
+    display:block;
+    height: 40px;
+    width: 300px;
+    color: red;
+  }
+  input {
+    font-size: x-large;
+  }
